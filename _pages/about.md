@@ -24,41 +24,41 @@ I am a master student at [Institute of Automation, Chinese Academy of Sciences](
 My research interests lie in the field of Recommender Systems, with a focus on sequential recommendation. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
 
 # 🔥 News
-- *2024.10*: &nbsp;📢 Our paper "Playing Language Game with LLMs Leads to Jailbreaking" has been submitted to ICLR 2025!
-- *2024.08*: &nbsp;📢 Our paper "GOT4Rec: Graph of Thoughts for Sequential Recommendation" has been submitted to AAAI 2025!
+- *2025.02*: &nbsp;📢 Our paper "Playing Language Game with LLMs Leads to Jailbreaking" has been submitted to ACL 2025!
+- *2025.01*: &nbsp;📢 Our paper "GOT4Rec: Graph of Thoughts for Sequential Recommendation" has been submitted to IJCAI 2025!
 - *2023.08*: &nbsp;🎉 Our paper "Personalized Interest Sustainability Modeling for Sequential POI Recommendation" has been accepted by CIKM 2023!
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Submission</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Submission</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Playing Language Game with LLMs Leads to Jailbreaking
 
 Yu Peng<sup>\*</sup>, **Zewen Long<sup>\*</sup>**, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
 
-**Submission to The Thirteenth International Conference on Learning Representations (ICLR 2025).**
+**Submission to The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).**
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
-[[PDF]](pdfs/Jailbreak.pdf) [[Code]](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4)
+[[PDF]](pdfs/Jailbreak.pdf) [[Code]](https://anonymous.4open.science/r/lgjail)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Submission</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025 Submission</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GOT4Rec: Graph of Thoughts for Sequential Recommendation
 
 **Zewen Long**, Liang Wang, Shu Wu, Qiang Liu, Liang Wang
 
-**Submission to The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).**
+**Submission to The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).**
 
 We propose the GOT4Rec model, which first utilizes the graph of thoughts (GoT) prompting strategy in the sequential recommendation domain to capture three key types of information contained within user history sequences: short-term interests, long-term interests and collaborative information from other users.
 
-[[PDF]](pdfs/GOT4Rec.pdf) [[Code]](https://anonymous.4open.science/r/GOT4Rec-ED99)
+[[PDF]](pdfs/GOT4Rec.pdf) [[Code]](https://anonymous.4open.science/r/GOT4Rec)
 
 </div>
 </div>
