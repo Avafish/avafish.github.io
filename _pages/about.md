@@ -21,7 +21,7 @@ Welcome to Zewen Long's Personal Homepage!
 
 I am a master student at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) (expected to graduate in June 2025). Additionally, I am a member at [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by Professor [Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en).
 
-My research interests lie in the field of Recommender Systems, with a focus on sequential recommendation. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
+My research interests lie in the field of Recommender Systems, with a focus on sequential recommendation. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and Trustworthy AI.
 
 # 🔥 News
 - *2025.02*: &nbsp;📢 Our paper "Playing Language Game with LLMs Leads to Jailbreaking" has been submitted to ACL 2025!
