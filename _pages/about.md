@@ -19,26 +19,25 @@ redirect_from:
 
 Welcome to Zewen Long's Personal Homepage!
 
-I am a master student at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) (expected to graduate in June 2025). Additionally, I am a member at [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by Professor [Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en).
+Currently, I am an Algorithm Engineer in Didi Chuxing, Beijing, responsible for the design and optimization of popup recommendation models. I graduated from the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) in June 2025 as a member at [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by Professor [Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en).
 
 My research interests lie in the field of Recommender Systems, with a focus on sequential recommendation. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and Trustworthy AI.
 
 # 🔥 News
-- *2025.02*: &nbsp;📢 Our paper "Playing Language Game with LLMs Leads to Jailbreaking" has been submitted to ACL 2025!
-- *2025.01*: &nbsp;📢 Our paper "GOT4Rec: Graph of Thoughts for Sequential Recommendation" has been submitted to IJCAI 2025!
+- *2026.01*: &nbsp;🎉 Our paper "Graph of Thoughts Signal Modeling for Sequential Recommendation" has been accepted by ICASSP 2026!
 - *2023.08*: &nbsp;🎉 Our paper "Personalized Interest Sustainability Modeling for Sequential POI Recommendation" has been accepted by CIKM 2023!
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Submission</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Submission</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Playing Language Game with LLMs Leads to Jailbreaking
 
 Yu Peng<sup>\*</sup>, **Zewen Long<sup>\*</sup>**, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
 
-**Submission to The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).**
+**Submission to The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).**
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
@@ -47,14 +46,14 @@ We discover a novel jailbreak attack method to exploit large language models (LL
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025 Submission</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GOT4Rec: Graph of Thoughts for Sequential Recommendation
+Graph of Thoughts Signal Modeling for Sequential Recommendation
 
 **Zewen Long**, Liang Wang, Shu Wu, Qiang Liu, Liang Wang
 
-**Submission to The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).**
+**Accepted by The 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026).**
 
 We propose the GOT4Rec model, which first utilizes the graph of thoughts (GoT) prompting strategy in the sequential recommendation domain to capture three key types of information contained within user history sequences: short-term interests, long-term interests and collaborative information from other users.
 
@@ -83,13 +82,15 @@ We propose a personalized interest sustainability model for sequential POI recom
 
 
 # 📖 Educations
-- *2022.09 - now*, M.S. in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences. Advisor: Prof. Shu Wu.
+- *2022.09 - 2025.06*, M.S. in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences. Advisor: Prof. Shu Wu.
 
 - *2018.09 - 2022.06*, B.E. in School of Cyber Security, University of Chinese Academy of Sciences. 
 
 # 📅 Academic Services
 - ACM Transactions on Recommender Systems, Reviewer
 - The Thirteenth International Conference on Learning Representations (ICLR 2025), Reviewer
+- The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Reviewer
+- The Fourteenth International Conference on Learning Representations (ICLR 2026), Reviewer
 
 # 📋 CV
 [[PDF]](pdfs/Resume.pdf)
