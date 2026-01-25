@@ -30,14 +30,14 @@ My research interests lie in the field of Recommender Systems, with a focus on s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Submission</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Playing Language Game with LLMs Leads to Jailbreaking
+When Safety Alignment Fails to Generalize: Probing with Language Game Jailbreaks
 
-Yu Peng<sup>\*</sup>, **Zewen Long<sup>\*</sup>**, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
+**Zewen Long<sup>\*</sup>**, Yu Peng<sup>\*</sup>, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
 
-**Submission to The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).**
+**Under Review**
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
