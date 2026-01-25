@@ -21,7 +21,7 @@ Welcome to Zewen Long's Personal Homepage!
 
 Currently, I am an Algorithm Engineer in Didi Chuxing, Beijing, responsible for the design and optimization of popup recommendation models. I graduated from the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) in June 2025 as a member at [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by Professor [Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en).
 
-My research interests lie in the field of Recommender Systems, with a focus on sequential recommendation. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and Trustworthy AI.
+My research interests lie in the field of Recommender Systems, with a focus on modeling user preferences. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and Trustworthy AI.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉 Our paper "Graph of Thoughts Signal Modeling for Sequential Recommendation" has been accepted by ICASSP 2026!
