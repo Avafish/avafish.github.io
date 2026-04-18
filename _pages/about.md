@@ -89,6 +89,7 @@ We propose a personalized interest sustainability model for sequential POI recom
 
 # 📅 Academic Services
 - ACM Transactions on Recommender Systems, Reviewer
+- ACM Transactions on Information Systems, Reviewer
 - The Thirteenth International Conference on Learning Representations (ICLR 2025), Reviewer
 - The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Reviewer
 - The Fourteenth International Conference on Learning Representations (ICLR 2026), Reviewer
