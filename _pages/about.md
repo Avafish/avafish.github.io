@@ -24,6 +24,7 @@ Currently, I am an Algorithm Engineer in Didi Chuxing, Beijing, responsible for 
 My research interests lie in the field of Recommender Systems, with a focus on modeling user preferences. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and Trustworthy AI.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Our paper "When Safety Alignment Fails to Generalize: Probing with Language Game Jailbreaks" has been accepted by the Findings of ACL 2026!
 - *2026.01*: &nbsp;🎉 Our paper "Graph of Thoughts Signal Modeling for Sequential Recommendation" has been accepted by ICASSP 2026!
 - *2023.08*: &nbsp;🎉 Our paper "Personalized Interest Sustainability Modeling for Sequential POI Recommendation" has been accepted by CIKM 2023!
 
@@ -35,9 +36,9 @@ My research interests lie in the field of Recommender Systems, with a focus on m
 
 When Safety Alignment Fails to Generalize: Probing with Language Game Jailbreaks
 
-**Zewen Long<sup>\*</sup>**, Yu Peng<sup>\*</sup>, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
+**Zewen Long<sup>\*</sup>**, Yu Peng<sup>\*</sup>, Fangming Dong, Congyi Li, Xingmao Guan, Shu Wu, Kai Chen
 
-**Under Review**
+**Accepted by The Findings of the Association for Computational Linguistics: ACL 2026**
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
