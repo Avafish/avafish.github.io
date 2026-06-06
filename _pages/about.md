@@ -37,7 +37,7 @@ When Safety Alignment Fails to Generalize: Probing with Language Game Jailbreaks
 
 **Zewen Long<sup>\*</sup>**, Yu Peng<sup>\*</sup>, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
 
-**Under Review**
+**ACL 2026 Findings**
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
