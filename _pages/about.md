@@ -24,20 +24,22 @@ Currently, I am an Algorithm Engineer in Didi Chuxing, Beijing, responsible for 
 My research interests lie in the field of Recommender Systems, with a focus on modeling user preferences. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and Trustworthy AI.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Our paper "When Safety Alignment Fails to Generalize: Probing with Language Game Jailbreaks" has been accepted by the Findings of ACL 2026!
 - *2026.01*: &nbsp;🎉 Our paper "Graph of Thoughts Signal Modeling for Sequential Recommendation" has been accepted by ICASSP 2026!
 - *2023.08*: &nbsp;🎉 Our paper "Personalized Interest Sustainability Modeling for Sequential POI Recommendation" has been accepted by CIKM 2023!
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 When Safety Alignment Fails to Generalize: Probing with Language Game Jailbreaks
 
-**Zewen Long<sup>\*</sup>**, Yu Peng<sup>\*</sup>, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
+**Zewen Long<sup>\*</sup>**, Yu Peng<sup>\*</sup>, Fangming Dong, Congyi Li, Xingmao Guan, Shu Wu, Kai Chen
 
-**ACL 2026 Findings**
+**Accepted by The Findings of the Association for Computational Linguistics: ACL 2026**
+>>>>>>> 8d5f4f5f0c0dff03c2054d180257f71ee62d5203
 
 We discover a novel jailbreak attack method to exploit large language models (LLMs) by playing custom-designed language games. This method circumvents LLM safety alignments, showcasing the vulnerability of current safety protocols.
 
@@ -88,6 +90,7 @@ We propose a personalized interest sustainability model for sequential POI recom
 
 # 📅 Academic Services
 - ACM Transactions on Recommender Systems, Reviewer
+- ACM Transactions on Information Systems, Reviewer
 - The Thirteenth International Conference on Learning Representations (ICLR 2025), Reviewer
 - The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Reviewer
 - The Fourteenth International Conference on Learning Representations (ICLR 2026), Reviewer
