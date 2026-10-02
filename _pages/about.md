@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Zewen Long's Personal Homepage!
 
-Currently, I am an Algorithm Engineer in Didi Chuxing, Beijing, responsible for the design and optimization of popup recommendation models. I graduated from the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) in June 2025 as a member at [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by Professor [Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en).
+I am a first-year Ph.D. student in Computer Science at the Institute of Science Tokyo, advised by Professor [Yang Cao](https://scholar.google.com/citations?hl=en&user=S-p4DFMAAAAJ). Before that,I am an Algorithm Engineer in Didi Chuxing, Beijing. I received my M.S. degree from the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) in June 2025 as a member at [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR), where I was fortunate to be advised by Professor [Shu Wu](https://people.ucas.ac.cn/~shuwu?language=en).
 
 My research interests lie in the field of Recommender Systems, with a focus on modeling user preferences. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and Trustworthy AI.
 
@@ -83,9 +83,16 @@ We propose a personalized interest sustainability model for sequential POI recom
 
 
 # 📖 Educations
+
+- *2026.10 - present*, Ph.D. in Computer Science, Institute of Science Tokyo, expected May 2029. Advisor: Prof. Yang Cao.
+  
 - *2022.09 - 2025.06*, M.S. in Computer Application Technology, Institute of Automation, Chinese Academy of Sciences. Advisor: Prof. Shu Wu.
 
 - *2018.09 - 2022.06*, B.E. in School of Cyber Security, University of Chinese Academy of Sciences. 
+
+# 💻 Work Experience
+
+- *2025.11 - 2026.04*, Algorithm Engineer in Didi Chuxing, Beijing, responsible for the design and optimization of popup recommendation models.
 
 # 📅 Academic Services
 - ACM Transactions on Recommender Systems, Reviewer
